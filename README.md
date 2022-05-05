@@ -38,9 +38,9 @@ O projeto irá abrir automaticamente no endereço: http://localhost:3000.
 
 - Para inicializar tecle qualquer tecla abaixo;
 
-Tecla D - Correr para Frente;
-Tecla A - Correr para Trás;
-Tecla W - Pular;
+* Tecla D - Correr para Frente;
+* Tecla A - Correr para Trás;
+* Tecla W - Pular;
 
 
 ## 📁 Acesso ao projeto
